@@ -1,0 +1,16 @@
+Name = input("Please enter your name :\n")
+birthday_person_name = input("Please enter the name of the person you want to wish \n:")
+DOB = int(input("please enter his / her date of birth :\n"))
+current_year = int(input("please enter the current year now \n:"))
+years_old_now = current_year - DOB
+print()
+print (f" Hip Hip hurray!!! {birthday_person_name},today marks a special day in your life\n" 
+      f" may this your new age open the doors of blessings in your life\n"
+      f" May all the good things you wish for in your life become true\n"
+      f" Happy {years_old_now} birthday to you ,{birthday_person_name}.you are such a blessing"
+      f" to the world, {birthday_person_name}\n" 
+      f" from {Name} to you. Enjoy your day {birthday_person_name}")
+
+
+
+
