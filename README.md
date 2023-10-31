@@ -1,2 +1,2 @@
-# Birth-wish-message
+# Birthday-wish-message
 wishing a happy birthday message with string interpolation
